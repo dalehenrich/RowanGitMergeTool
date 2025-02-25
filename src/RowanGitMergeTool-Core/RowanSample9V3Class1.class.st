@@ -11,19 +11,7 @@ Class {
 }
 
 { #category : 'accessing' }
-RowanSample9V3Class1 >> A_bc123 [ ^1
-]
-
-{ #category : 'accessing' }
-RowanSample9V3Class1 >> Foo [ ^1
-]
-
-{ #category : 'accessing' }
 RowanSample9V3Class1 >> _123Abc [ ^1
-]
-
-{ #category : 'accessing' }
-RowanSample9V3Class1 >> _ABC123 [ ^1
 ]
 
 { #category : 'accessing' }
@@ -31,5 +19,17 @@ RowanSample9V3Class1 >> _abc123 [ ^1
 ]
 
 { #category : 'accessing' }
+RowanSample9V3Class1 >> _ABC123 [ ^1
+]
+
+{ #category : 'accessing' }
+RowanSample9V3Class1 >> A_bc123 [ ^1
+]
+
+{ #category : 'accessing' }
 RowanSample9V3Class1 >> foo [ ^1
+]
+
+{ #category : 'accessing' }
+RowanSample9V3Class1 >> Foo [ ^1
 ]

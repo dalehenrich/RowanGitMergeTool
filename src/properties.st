@@ -1,4 +1,4 @@
 { 
 	#format : 'tonel',
-	#convention : 'Rowan--packageFormat=tonel'
+	#convention : 'Rowan'
 }

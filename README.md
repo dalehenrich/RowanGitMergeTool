@@ -8,11 +8,14 @@
 ### Goal of experiment is to to create commit conflicts during merge A into B
 O, A, & B will be dressed out with code to make comflicts more likely
 
+### sample_0 -- cp A to src 
+
 ### result_0 -- no conflicts
 merge sample_0 into master_0
-Automatic merge went well; stopped before committing as requested
 ```
-checkout master_0
-git merge sample_0 --no-commit
-git checkout -b result_0
+> checkout master_0
+> git merge sample_0 --no-commit
+Automatic merge went well; stopped before committing as requested
+> git checkout -b result_0
+> git commit 
 ```
